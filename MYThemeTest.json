@@ -1,5 +1,5 @@
 {
-    "name": "Material You Blue",
+    "name": "Material-You-Blue",
     "description": "Test",
     "authors": [
         {
@@ -107,7 +107,7 @@
             "#B0C4FF"
         ],
         "CHAT_BACKGROUND": [
-            "#26272e"
+            "#26272E"
         ]
     },
     "rawColors": {
