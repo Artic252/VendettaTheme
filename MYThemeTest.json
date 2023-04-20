@@ -36,7 +36,7 @@
             "#B0C4FF"
         ],
         "INTERACTIVE_MUTED": [
-            "#00ddff"
+            "#"
         ],
         "BACKGROUND_PRIMARY": [
             "1B1B1E"
@@ -60,7 +60,7 @@
             "#"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#26272E"
+            "#"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#"
@@ -97,7 +97,7 @@
             "#"
         ],
         "CHANNELS_DEFAULT": [
-            "#"
+            "#ffffff"
         ],
         "TEXT_LINK": [
             "#B0C5FF"
