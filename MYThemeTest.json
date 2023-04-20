@@ -1,0 +1,141 @@
+{
+    "name": "Midnight-Espresso",
+    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+    "authors": [
+        {
+            "name": "komette",
+            "id": "555686162153472000"
+        },
+
+        {
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
+          
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#F0F0FA"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#B0C4FF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#B0C4FF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "1B1B1E"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#26272E"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#26272E"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1B1B1E"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#BC05FF"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#26272E"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            ""
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            ""
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#"
+        ],
+        "TEXT_LINK": [
+            "#"
+        ],
+        "TEXT_DANGER": [
+            "#CF6679"
+        ],
+        "KEYBOARD": [
+            "#"
+        ],
+        "CHANNEL_ICON": [
+            "#B0C4FF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1B1B1E"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#9E8376",
+        "PRIMARY_100": "#EFDFD7",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#9E8376",
+        "PRIMARY_360": "#9E8376",
+        "PRIMARY_400": "#9E8376",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#957261",
+        "BRAND_360": "#D0A996",
+        "BRAND_500": "#957261",
+        "BRAND_560": "#D0A996",
+        "YELLOW_300": "#957261",
+        "GREEN_600": "#EFDFD7",
+        "RED_400": "#9E8376",
+        "WHITE_500": "#EFDFD7",
+        "GREEN_360": "#503E38"
+    },
+    "spec": 2
+}
