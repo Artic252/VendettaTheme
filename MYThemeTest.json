@@ -69,7 +69,7 @@
             "#1b1b1e"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3a2c26"
+            "#b0c5ff"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#1b1b1e"
@@ -78,7 +78,7 @@
             "26272e"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#26272e"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -93,10 +93,10 @@
             "#090C9B"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffff"
+            "#cbcbcb"
         ],
         "TEXT_LINK": [
-            "#9E8376"
+            "#b0c5ff"
         ],
         "TEXT_DANGER": [
             "#503E38"
@@ -116,7 +116,7 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#488B49",
         "PRIMARY_300": "#b0c5ff",
-        "PRIMARY_360": "#c5e06c",
+        "PRIMARY_360": "#b0c5ff",
         "PRIMARY_400": "#b3fffc",
         "PRIMARY_600": "#1b1b1e",
         "PRIMARY_630": "#1B1b1e",
