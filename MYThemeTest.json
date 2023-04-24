@@ -47,19 +47,19 @@
             "#1b1b1e"
         ],
         "BACKGROUND_ACCENT": [
-            "#503E38"
+            "#1b1b1e"
         ],
         "BACKGROUND_FLOATING": [
-            "#15100d"
+            "#1b1b1e"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#15100d"
+            "#1b1b1e"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#15100d"
+            "#26272e"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#26272e"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
