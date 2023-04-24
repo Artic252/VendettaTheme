@@ -108,7 +108,7 @@
             "#ffffff"
         ],
         "CHAT_BACKGROUND": [
-            "#26272e"
+            "#1b1b1e"
         ]
     },
     "rawColors": {
@@ -118,7 +118,7 @@
         "PRIMARY_300": "#9E8376",
         "PRIMARY_360": "#9E8376",
         "PRIMARY_400": "#9E8376",
-        "PRIMARY_600": "#26272e",
+        "PRIMARY_600": "#1b1b1e",
         "PRIMARY_630": "#1B1411",
         "PRIMARY_660": "#1B1411",
         "PRIMARY_700": "#100D0A",
