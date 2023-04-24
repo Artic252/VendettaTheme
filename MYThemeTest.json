@@ -1,18 +1,13 @@
 
 {
-    "name": "Midnight-Espresso",
-    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+    "name": "Material You Blue",
+    "description": "Only dark theme rn",
     "authors": [
         {
-            "name": "komette",
-            "id": "555686162153472000"
-        },
-
-        {
-            "name": "Vodka Martini",
-            "id": "1068030255455015013"
-          
+            "name": "Artic252",
+            "id": "idk"
         }
+
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
