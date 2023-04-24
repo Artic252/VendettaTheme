@@ -26,13 +26,13 @@
             "#bc05ff"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#bc05ff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#EFDFD7"
         ],
         "INTERACTIVE_MUTED": [
-            "#957261"
+            "#9c9c9c"
         ],
         "BACKGROUND_PRIMARY": [
             "#26272e"
