@@ -63,10 +63,10 @@
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#1b1b1e"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
+            "#1b1b1e"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#3a2c26"
@@ -112,7 +112,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E8376",
+        "PRIMARY_500": "#a201ff",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_300": "#b0c5ff",
