@@ -29,7 +29,7 @@
             "#b0c5ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b0c5ff"
+            "#E3E2E7"
         ],
         "INTERACTIVE_MUTED": [
             "#9c9c9c"
@@ -72,7 +72,7 @@
             "#b0c5ff"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1b1b1e"
+            "#23232B"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "26272e"
