@@ -99,7 +99,7 @@
             "#b0c5ff"
         ],
         "TEXT_DANGER": [
-            "#503E38"
+            "#5D3A62"
         ],
         "KEYBOARD": [
             "#110D0A"
@@ -117,7 +117,7 @@
         "PRIMARY_200": "#488B49",
         "PRIMARY_300": "#b0c5ff",
         "PRIMARY_360": "#b0c5ff",
-        "PRIMARY_400": "#b3fffc",
+        "PRIMARY_400": "#1b1b1e",
         "PRIMARY_600": "#26272e",
         "PRIMARY_630": "#1B1b1e",
         "PRIMARY_660": "#1B1b1e",
@@ -129,7 +129,7 @@
         "BRAND_560": "#304d6d",
         "YELLOW_300": "#c59849",
         "GREEN_600": "#03793c",
-        "RED_400": "#b0c5ff",
+        "RED_400": "#5D3A62",
         "WHITE_500": "#E3E2E7",
         "GREEN_360": "#E2e2e7"
     },
